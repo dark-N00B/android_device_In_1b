@@ -9,7 +9,7 @@ CPU     | Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)
 Chipset | MediaTek Helio G35 (12 nm)
 GPU     | PowerVR GE8320
 Memory  | 4 GB
-Shipped Android Version | Android 10, realme UI 1.0 (Upgradeable to Android 11,realme UI 2.0)
+Shipped Android Version | Android 10 (Upgradeable to Android 11)
 Storage | 64 GB (eMMC)
 MicroSD | Up to 512 GB (dedicated slot)
 Battery | Li-Po 5000 mAh, non-removable
