@@ -1,0 +1,5 @@
+     1842080  /ramdisk/init
+        4320  /ramdisk/fstab.mt6765
+        1032  /ramdisk/avb/s-gsi.avbpubkey
+        1032  /ramdisk/avb/r-gsi.avbpubkey
+        1032  /ramdisk/avb/q-gsi.avbpubkey

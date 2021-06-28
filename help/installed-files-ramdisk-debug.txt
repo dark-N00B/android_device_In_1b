@@ -1,0 +1,8 @@
+     1842080  /debug_ramdisk/init
+     1474989  /debug_ramdisk/userdebug_plat_sepolicy.cil
+        4320  /debug_ramdisk/fstab.mt6765
+        1032  /debug_ramdisk/avb/s-gsi.avbpubkey
+        1032  /debug_ramdisk/avb/r-gsi.avbpubkey
+        1032  /debug_ramdisk/avb/q-gsi.avbpubkey
+         418  /debug_ramdisk/adb_debug.prop
+           0  /debug_ramdisk/force_debuggable
