@@ -21,4 +21,5 @@ Release Month | 2020, November 26
 
 ![Micromax In 1b](https://fdn2.gsmarena.com/vv/pics/micromax/micromax-in-1b-0.jpg "Micromax In 1b")
 
-Note: This device tree is only for Micromax In 1b 64GB variant(E7533). The 32GB variant (E6523) isn't tested yet.
+## Notice
+This device tree is only for Micromax In 1b 64GB variant(E7533). The 32GB variant (E6523) isn't tested yet.
