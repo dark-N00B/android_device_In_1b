@@ -1,0 +1,4 @@
+type mtk_hal_mms, domain;
+type mtk_hal_mms_exec, exec_type, file_type, vendor_file_type;
+
+allow mtk_hal_mms untrusted_app_29:fd { use };
