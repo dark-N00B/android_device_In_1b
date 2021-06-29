@@ -1,0 +1,7 @@
+[
+  {
+    "repository" : "techyminati/proprietary_vendor_E7533",
+    "target_path": "vendor/micromax/E7533",
+    "branch"     : "lineage-18.1"
+  }
+]
