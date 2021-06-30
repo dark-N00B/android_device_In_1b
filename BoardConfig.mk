@@ -14,10 +14,10 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/realme/RMX2185
+DEVICE_PATH := device/micromax/E7533
 
 #Assert
-TARGET_OTA_ASSERT_DEVICE := RMX2185
+TARGET_OTA_ASSERT_DEVICE := E7533
 
 #Build
 BUILD_BROKEN_DUP_RULES := true
