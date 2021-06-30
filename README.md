@@ -1,4 +1,4 @@
-Copyright (C) 2021 - Android Open Source Project
+##### Copyright (C) 2021 - Android Open Source Project
 
 Device Tree - Micromax In 1b 64GB (E7533)
 ===============================================================
@@ -9,7 +9,7 @@ CPU     | Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)
 Chipset | MediaTek Helio G35 (12 nm)
 GPU     | PowerVR GE8320
 Memory  | 4 GB
-Shipped Android Version | Android 10 (Upgradeable to Android 11)
+Shipped Android Version | Android 10 (Planned Upgrade to Android 11)
 Storage | 64 GB (eMMC)
 MicroSD | Up to 512 GB (dedicated slot)
 Battery | Li-Po 5000 mAh, non-removable
